@@ -62,11 +62,3 @@
 <h3 align="left">My Stats :</h3>
 
 ###
-
-<div align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=mikaellecam)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
-
-
-
-###
