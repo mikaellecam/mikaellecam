@@ -1,7 +1,7 @@
 <a href="https://le-cam.dev">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
-    <img alt="Mikael Le Cam, software engineer, building Tiwala" src="banner-light.svg">
+    <img alt="Mikael Le Cam, software engineer" src="banner-light.svg">
   </picture>
 </a>
 
